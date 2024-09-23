@@ -8,7 +8,6 @@ with CRUD interactions
 - NodeJS
 - Express
 - PostgreSQL
-- RESTapi
 
 ## About
 
